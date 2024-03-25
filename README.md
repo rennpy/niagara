@@ -1,1 +1,1 @@
-# niagara
+# Niagara theme for Aliucord
