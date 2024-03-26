@@ -28,3 +28,11 @@ General
 - Avatar Size: 112
 - Chatbox Height: 114
 - Button Size: 114
+
+# BetterStatusIndicators
+Avatar Status
+- Chat Status: Disabled
+- Enable Radial Status: Select all except for chat
+- Online Color: ```#8FE3FF```
+- Idle Color: ```#FFD98F```
+- DND Color: ```#8FE3FF```
