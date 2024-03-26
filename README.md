@@ -36,3 +36,7 @@ Avatar Status
 - Online Color: ```#8FE3FF```
 - Idle Color: ```#FFD98F```
 - DND Color: ```#8FE3FF```
+
+# CompactMode (optional but I absolutely recommend it)
+- Double check that "Hide Avatar" is disabled
+- Hide Reply icon enabled
