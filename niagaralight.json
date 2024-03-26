@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0",
         "author": "shiggy.py",
-        "name": "Niagara Light"
+        "name": "Niagara Light",
+        "updater": "https:\/\/github.com\/rennpy\/niagara\/raw\/main\/niagaralight.json"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/rennpy\/niagara\/main\/Background\/preview1.png",

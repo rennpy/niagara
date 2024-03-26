@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0",
         "author": "shiggy.py",
-        "name": "Niagara"
+        "name": "Niagara",
+        "updater": "https:\/\/github.com\/rennpy\/niagara\/raw\/main\/niagara.json"
     },
     "background": {
         "blur_radius": 2,
