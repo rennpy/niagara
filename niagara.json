@@ -3,7 +3,7 @@
         "version": "1.0",
         "author": "shiggy.py",
         "name": "Niagara",
-        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/niagara\/raw\/main\/niagara.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/niagara\/main\/niagara.json"
     },
     "background": {
         "blur_radius": 2,
