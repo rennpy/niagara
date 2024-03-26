@@ -40,3 +40,7 @@ Avatar Status
 # CompactMode (optional but I absolutely recommend it)
 - Double check that "Hide Avatar" is disabled
 - Hide Reply icon enabled
+
+# HighlightOwnMessages (also optional but neat)
+- Right and Left enabled
+- Left Align Multiline disabled
