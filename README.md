@@ -8,22 +8,22 @@
 > [!IMPORTANT]
 > If you would like your discord to look exactly like the preview, make sure to have the following plugins installed:
 
-> SquareAvatars
+# SquareAvatars
 - Round Corners Radius: 3
 
-> BetterChatbox
+# BetterChatbox
 General
 
 - Use Old / Small Gallery Icon: Disabled
 - Avatar Display Mode: Normal
 - Avatar On Press Mode: Add Attachment
-> Radii
+# Radii
 
 - Avatar Radius: 27
 - Chatbox Radius: 30
 - Button Radius: 30
 - Square Chatbox
-> Sizing
+# Sizing
 
 - Avatar Size: 102
 - Chatbox Height: 114
