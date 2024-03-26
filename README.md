@@ -25,6 +25,6 @@ General
 - Square Chatbox
 # Sizing
 
-- Avatar Size: 102
+- Avatar Size: 112
 - Chatbox Height: 114
 - Button Size: 114
